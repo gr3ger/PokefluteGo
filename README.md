@@ -1,2 +1,2 @@
-# PokefluteGo
-Keeps the screen awake while Pokemon GO is in the foreground.
+# PokéfluteGo
+Keeps the screen awake while Pokémon GO is in the foreground.
